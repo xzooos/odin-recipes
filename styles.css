@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(233, 204, 166);
+}
+
+img {
+    width: 700;
+    height: auto;
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(78, 12, 12);
+}
+
+a {
+    font-size: 20px;
+}
+
+.intro,
+.para {
+    font-weight: 600;
+}
+
+.intro {
+    color: rgb(122, 14, 14);
+}
+
+.para {
+    color: rgb(134, 17, 17);
+}
