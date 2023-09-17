@@ -1,0 +1,21 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.headings {
+    font-size: 25px;
+}
+
+.para {
+    font-size: 20px;
+}
